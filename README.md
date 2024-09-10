@@ -1,2 +1,2 @@
-# Backend_JavaScript_Task8
-Using Callbacks for Asynchronous Operations
+# Backend_JavaScript_Task10
+Implementing Debouncing and Throttling
